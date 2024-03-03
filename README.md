@@ -2,10 +2,11 @@
 A collection of mondodb queries
 
 ## Some Notes
-
+Download mongo exe [https://www.mongodb.com/try/download/community](https://www.mongodb.com/try/download/community)
+Download mongo shell [https://www.mongodb.com/try/download/shell](https://www.mongodb.com/try/download/shell)
 ```
-1) First install mongodb community server [https://www.mongodb.com/try/download/community](https://www.mongodb.com/try/download/community)
-2) Second extract the mongo shell .zip file and paste into the C: drive [https://www.mongodb.com/try/download/shell](https://www.mongodb.com/try/download/shell)
+1) First install mongodb community server
+2) Second extract the mongo shell .zip file and paste into the C: drive 
 3) Create 2 system env path variable
 Like:
 C:\Program Files\MongoDB\Server\6.0\bin
