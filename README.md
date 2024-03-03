@@ -2,7 +2,7 @@
 A collection of mondodb queries
 
 ## Some Notes
-Download mongo exe [https://www.mongodb.com/try/download/community](https://www.mongodb.com/try/download/community)
+Download mongo exe [https://www.mongodb.com/try/download/community](https://www.mongodb.com/try/download/community) \
 Download mongo shell [https://www.mongodb.com/try/download/shell](https://www.mongodb.com/try/download/shell)
 ```
 1) First install mongodb community server
